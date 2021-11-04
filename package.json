@@ -1,0 +1,26 @@
+{
+  "name": "bottom-sheet",
+  "version": "0.0.1",
+  "description": "Bottom sheet material like",
+  "main": "main.js",
+  "scripts": {
+    "dev": "parcel watch index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "material",
+    "bottom-sheet"
+  ],
+  "author": "Herwindo Artono",
+  "license": "ISC",
+  "devDependencies": {
+    "cssnano": "^5.0.8",
+    "eslint": "^8.1.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.1",
+    "postcss": "^8.3.11",
+    "sass": "^1.22.7"
+  }
+}
